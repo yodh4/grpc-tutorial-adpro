@@ -48,5 +48,5 @@ Reflection
 <br></br>
 10. What are the implications of the schema-based approach of gRPC, using Protocol Buffers, compared to the more flexible, schema-less nature of JSON in REST API payloads?
 
-    Implikasi dari pendekatan schema based pada gRPC adalah data yang dikirim sudah didefinisikan pada file .proto, hal ini menyebabkan proses pengiriman data lebih terstruktur jika dibandingkan dengan pengiriman data menggunakan JSON yang tidak terdefinisi dari awal
+    Implikasi dari pendekatan schema based pada gRPC adalah data yang dikirim sudah didefinisikan pada file .proto, hal ini menyebabkan proses pengiriman data lebih terstruktur jika dibandingkan dengan pengiriman data menggunakan JSON yang tidak terdefinisi di awal
 
